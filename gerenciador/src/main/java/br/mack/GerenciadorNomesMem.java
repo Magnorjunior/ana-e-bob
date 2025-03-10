@@ -9,7 +9,7 @@ public class GerenciadorNomesMem implements GerenciadorNomes {
     public List<String> obterNomes() {
         return nomes;
     }
-
+    // sua prima
     @Override
     public void adicionarNome(String nome) {
         nomes.add(nome);
